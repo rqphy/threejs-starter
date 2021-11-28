@@ -17,6 +17,7 @@ export default class Environment
         }
 
         this.setSunlight()
+        console.log('setsunlight')
     }
 
     setSunlight()
