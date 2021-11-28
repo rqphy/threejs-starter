@@ -17,4 +17,8 @@ export default class World
         })
     }
     
+    update()
+    {
+        // Here the update functions
+    }
 }
