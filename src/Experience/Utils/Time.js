@@ -12,7 +12,10 @@ export default class Time extends EventEmitter
         this.elasped = 0
         this.delta = 16
 
-        this.tick()
+        window.requestAnimationFrame(() =>
+        {
+            this.tick()
+        })
     }
 
     tick()
