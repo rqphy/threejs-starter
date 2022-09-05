@@ -1,6 +1,6 @@
-# A simple Threejs boilerplate
+# ThreeJs Starter
 
-The easiest way to create your new projet.
+An advanced ThreeJs starter inspired by Bruno Simon.
 
 ## INSTAL
 ```bash
